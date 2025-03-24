@@ -2,8 +2,7 @@
 using namespace std;
 #define ll long long
 void solve(){
-   cout<<"github bartaide bro\n";
-   //bartide ye
+   cout<<"HI\n";
 
 }
 
